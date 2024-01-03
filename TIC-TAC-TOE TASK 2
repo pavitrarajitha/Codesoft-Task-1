@@ -1,0 +1,2 @@
+ask 2: Tic-Tac-Toe AI
+Implementing an AI agent capable of playing the classic game of Tic-Tac-Toe against a human player. The AI utilizes algorithms like Minimax, with or without Alpha-Beta Pruning, to ensure an unbeatable gameplay experience.
